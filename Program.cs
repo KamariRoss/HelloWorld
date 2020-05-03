@@ -1,12 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace HelloWorld
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
-      Console.WriteLine("Hello, World, my name is Kamari");
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Hello world my name is Kamari");
+
+        }
     }
-  }
 }
